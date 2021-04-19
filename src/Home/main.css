@@ -1,0 +1,12 @@
+.mini-css-extract {
+    color: #fff;
+}
+
+/* autoprefix test */
+::placeholder {
+    color: gray;
+}
+.browserslist-autoprefix {
+    display: flex;
+    filter: blur(5px);
+}
